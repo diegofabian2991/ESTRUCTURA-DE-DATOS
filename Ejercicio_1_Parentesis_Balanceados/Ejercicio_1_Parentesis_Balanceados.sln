@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_1_Parentesis_Balanceados", "Ejercicio_1_Parentesis_Balanceados.csproj", "{4788B0E4-C55B-2549-B457-1BA4487BA47E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4788B0E4-C55B-2549-B457-1BA4487BA47E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4788B0E4-C55B-2549-B457-1BA4487BA47E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4788B0E4-C55B-2549-B457-1BA4487BA47E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4788B0E4-C55B-2549-B457-1BA4487BA47E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70FB18CE-4BDD-42C2-865E-D0366D27F2A0}
+	EndGlobalSection
+EndGlobal
