@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Deber_TeoriaConjuntos_Vacunacion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e1d22c5ef9e978b6948d8c371585eecfc39f327")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+334ff47fd936ec7ba16cfa82662ec66e75aa8fd7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Deber_TeoriaConjuntos_Vacunacion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Deber_TeoriaConjuntos_Vacunacion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
