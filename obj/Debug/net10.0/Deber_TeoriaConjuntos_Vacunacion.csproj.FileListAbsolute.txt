@@ -1,0 +1,15 @@
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\bin\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.exe
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\bin\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.deps.json
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\bin\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.runtimeconfig.json
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\bin\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.dll
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\bin\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.pdb
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\obj\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\obj\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\obj\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.AssemblyInfo.cs
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\obj\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\obj\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.sourcelink.json
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\obj\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.dll
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\obj\Debug\net10.0\refint\Deber_TeoriaConjuntos_Vacunacion.dll
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\obj\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.pdb
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\obj\Debug\net10.0\Deber_TeoriaConjuntos_Vacunacion.genruntimeconfig.cache
+C:\Users\diego\Desktop\UEA\Tercer Semestre\primer bimestre\Estructura de datos\Proyectos\Deber_TeoriaConjuntos_Vacunacion\obj\Debug\net10.0\ref\Deber_TeoriaConjuntos_Vacunacion.dll

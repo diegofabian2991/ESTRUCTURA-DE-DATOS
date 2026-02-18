@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deber_TeoriaConjuntos_Vacunacion", "Deber_TeoriaConjuntos_Vacunacion.csproj", "{AB9BBCFC-4AD2-768B-31FC-13B592FAE683}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB9BBCFC-4AD2-768B-31FC-13B592FAE683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9BBCFC-4AD2-768B-31FC-13B592FAE683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9BBCFC-4AD2-768B-31FC-13B592FAE683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9BBCFC-4AD2-768B-31FC-13B592FAE683}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71F48C11-1FDF-4E0C-96C2-E92C24C0F143}
+	EndGlobalSection
+EndGlobal
