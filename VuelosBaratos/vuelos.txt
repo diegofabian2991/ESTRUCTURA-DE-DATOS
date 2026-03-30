@@ -1,0 +1,10 @@
+Quito,Guayaquil,50
+Quito,Cuenca,40
+Cuenca,Guayaquil,30
+Guayaquil,Manta,20
+Cuenca,Loja,25
+Loja,Guayaquil,35
+Quito,EEUU,1200
+Quito,España,1700
+Quito,Loja,70
+Cuenca,Manta,45
